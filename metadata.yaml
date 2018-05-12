@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26108'
     url: http://www.gutenberg.org/2009/agents/26108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42720#Speciation-in-the-Brazilian-Spiny-Rats
 gutenberg_issued: '2013-05-16'
 gutenberg_type: Text
 identifiers:
