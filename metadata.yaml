@@ -1,0 +1,33 @@
+_repo: Speciation-in-the-Brazilian-Spiny-Rats_42720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42720-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Moojen, João
+    alias: Moojen, Joao
+    gutenberg_agent_id: '41840'
+    url: http://www.gutenberg.org/2009/agents/41840
+  editor:
+    agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42720'
+  lccn: '49045046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Proechimys'
+title: Speciation in the Brazilian Spiny Rats
+url: http://www.gutenberg.org/ebooks/42720
